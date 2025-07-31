@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.8.1
+
+### Improvements
+
+-  Use the Alpine image with the fixed tag `3.22.1` during the backup process
+
 ## 1.8.0
 
 ### New features
