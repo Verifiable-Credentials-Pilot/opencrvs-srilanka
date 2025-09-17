@@ -33,14 +33,14 @@ all:
       # If you need to remove access from someone, do not remove them from this list, but instead set their state: absent
       - name: provision
         ssh_keys:
-          - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIK/Gv9SeoO9KpnawvPj0Hq8u6LANXGCZSCaBREiTZylX provision@opencrvs-qa-test
+          - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOveRlTi9VKRoRFDo+cJSkeUDDUlu11sll2q+JgEJ+Eb provision@opencrvs-prod.asia-southeast1-c.c.research-team-403006.internal
         state: present
         sudoer: true
 
 docker-manager-first:
   hosts:
-    opencrvs-qa-test: # @todo set this to be the hostname of your target server
-      ansible_host: '35.198.195.26' # @todo set this to be the hostname of your target server
+    opencrvs-prod: # @todo set this to be the hostname of your target server
+      ansible_host: '35.247.174.196' # @todo set this to be the hostname of your target server
       data_label: data1
       # If you are using a jump server to access this environment, enter other SSH args here.
       # ansible_ssh_common_args: '-J jump@55.55.55.55 -o StrictHostKeyChecking=no' # @todo set this to be the IP address of your jump server
