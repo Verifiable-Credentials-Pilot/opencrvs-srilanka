@@ -46,13 +46,14 @@ services:
     #
      volumes:
        - /var/run/docker.sock:/var/run/docker.sock
-       - /data/traefik/certs:/certs
+       - /data/traefik/certs:/etc/certs
+       - /opt/opencrvs/infrastructure/traefik/certs.yaml:/etc/traefik/certs.yaml
      command:
-       - --tls.certificates.certfile=/certs/cert.crt
-       - --tls.certificates.keyfile=/certs/cert.key
+       - --tls.certificates.certfile=/etc/certs/cert.crt
+       - --tls.certificates.keyfile=/etc/certs/cert.key
        - --tls.certificates.stores=default
-       - --tls.stores.default.defaultcertificate.certfile=/certs/cert.crt
-       - --tls.stores.default.defaultcertificate.keyfile=/certs/cert.key
+       - --tls.stores.default.defaultcertificate.certfile=/etc/certs/cert.crt
+       - --tls.stores.default.defaultcertificate.keyfile=/etc/certs/cert.key
 
        - --entrypoints.web.address=:80
        - --entrypoints.websecure.address=:443
