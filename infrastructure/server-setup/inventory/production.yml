@@ -39,7 +39,7 @@ all:
 
 docker-manager-first:
   hosts:
-    opencrvs-prod: # @todo set this to be the hostname of your target server
+    opencrvs-prod.asia-southeast1-c.c.research-team-403006.internal: # @todo set this to be the hostname of your target server
       ansible_host: '35.247.174.196' # @todo set this to be the hostname of your target server
       data_label: data1
       # If you are using a jump server to access this environment, enter other SSH args here.
