@@ -54,25 +54,27 @@ services:
        - --tls.stores.default.defaultcertificate.certfile=/certs/crvs.cm.crt
        - --tls.stores.default.defaultcertificate.keyfile=/certs/crvs.cm.key
 
-    command:
-      #- --certificatesresolvers.certResolver.acme.email=riku@opencrvs.org
-      #- --certificatesresolvers.certResolver.acme.storage=acme.json
-      #- --certificatesresolvers.certResolver.acme.caserver=https://acme-v02.api.letsencrypt.org/directory
-      #- --certificatesresolvers.certResolver.acme.httpchallenge.entrypoint=web
-      #- --certificatesresolvers.certResolver.acme.httpchallenge=true
+       - --entrypoints.web.address=:80
+       - --entrypoints.websecure.address=:443
+       - --providers.docker
+       - --providers.docker.swarmMode=true
+       - --api.dashboard=true
+       - --api.insecure=true
+       - --log.level=WARNING
+       - --entrypoints.web.http.redirections.entryPoint.to=websecure
+       - --entrypoints.web.http.redirections.entryPoint.scheme=https
+       - --entrypoints.web.http.redirections.entrypoint.permanent=true
+       - --serverstransport.insecureskipverify=true
+       - --entrypoints.websecure.address=:443
+       - --accesslog=true
+       - --accesslog.format=json
+       - --ping=true
 
-      - --entrypoints.web.address=:80
-      - --entrypoints.websecure.address=:443
-      - --providers.docker
-      - --providers.docker.swarmMode=true
-      - --api.dashboard=true
-      - --api.insecure=true
-      - --log.level=WARNING
-      - --entrypoints.web.http.redirections.entryPoint.to=websecure
-      - --entrypoints.web.http.redirections.entryPoint.scheme=https
-      - --entrypoints.web.http.redirections.entrypoint.permanent=true
-      - --serverstransport.insecureskipverify=true
-      - --entrypoints.websecure.address=:443
-      - --accesslog=true
-      - --accesslog.format=json
-      - --ping=true
+    # command:
+    #   - --certificatesresolvers.certResolver.acme.email=riku@opencrvs.org
+    #   - --certificatesresolvers.certResolver.acme.storage=acme.json
+    #   - --certificatesresolvers.certResolver.acme.caserver=https://acme-v02.api.letsencrypt.org/directory
+    #   - --certificatesresolvers.certResolver.acme.httpchallenge.entrypoint=web
+    #   - --certificatesresolvers.certResolver.acme.httpchallenge=true
+
+
