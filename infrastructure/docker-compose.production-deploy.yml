@@ -51,11 +51,11 @@ services:
        
               
      command:
-       - --tls.certificates.certfile=/etc/certs/cert.crt
-       - --tls.certificates.keyfile=/etc/certs/cert.key
-       - --tls.certificates.stores=default
-       - --tls.stores.default.defaultcertificate.certfile=/etc/certs/cert.crt
-       - --tls.stores.default.defaultcertificate.keyfile=/etc/certs/cert.key
+      #  - --tls.certificates.certfile=/etc/certs/cert.crt
+      #  - --tls.certificates.keyfile=/etc/certs/cert.key
+      #  - --tls.certificates.stores=default
+      #  - --tls.stores.default.defaultcertificate.certfile=/etc/certs/cert.crt
+      #  - --tls.stores.default.defaultcertificate.keyfile=/etc/certs/cert.key
 
        - --entrypoints.web.address=:80
        - --entrypoints.websecure.address=:443
