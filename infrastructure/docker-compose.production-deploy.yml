@@ -73,8 +73,8 @@ services:
        - --accesslog=true
        - --accesslog.format=json
        - --ping=true
-       - --providers.file.filename=/etc/traefik/certs.yaml
-       - --providers.file.directory=/etc/certs
+       - --providers.file.directory=/etc/traefik
+       - --providers.file.watch=true
 
 
     # command:
