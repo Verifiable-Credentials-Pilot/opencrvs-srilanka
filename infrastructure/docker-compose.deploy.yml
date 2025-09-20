@@ -22,7 +22,15 @@ services:
     volumes:
       - /var/run/docker.sock:/var/run/docker.sock
       - /data/traefik/acme.json:/acme.json
+      - /data/traefik/certs:/etc/certs
+      - /opt/opencrvs/infrastructure/traefik/certs.yaml:/etc/traefik/certs.yaml
+      
     command:
+      - --tls.certificates.certfile=/etc/certs/cert.crt
+      - --tls.certificates.keyfile=/etc/certs/cert.key
+      - --tls.certificates.stores=default
+      - --tls.stores.default.defaultcertificate.certfile=/etc/certs/cert.crt
+      - --tls.stores.default.defaultcertificate.keyfile=/etc/certs/cert.key
       - --entrypoints.web.address=:80
       - --entrypoints.websecure.address=:443
       - --providers.docker
@@ -30,11 +38,11 @@ services:
       - --api.dashboard=true
       - --api.insecure=true
       - --log.level=WARNING
-      - --certificatesresolvers.certResolver.acme.email=riku@opencrvs.org
-      - --certificatesresolvers.certResolver.acme.storage=acme.json
-      - --certificatesresolvers.certResolver.acme.caserver=https://acme-v02.api.letsencrypt.org/directory
-      - --certificatesresolvers.certResolver.acme.httpchallenge.entrypoint=web
-      - --certificatesresolvers.certResolver.acme.httpchallenge=true
+      # - --certificatesresolvers.certResolver.acme.email=riku@opencrvs.org
+      # - --certificatesresolvers.certResolver.acme.storage=acme.json
+      # - --certificatesresolvers.certResolver.acme.caserver=https://acme-v02.api.letsencrypt.org/directory
+      # - --certificatesresolvers.certResolver.acme.httpchallenge.entrypoint=web
+      # - --certificatesresolvers.certResolver.acme.httpchallenge=true
       - --entrypoints.web.http.redirections.entryPoint.to=websecure
       - --entrypoints.web.http.redirections.entryPoint.scheme=https
       - --entrypoints.web.http.redirections.entrypoint.permanent=true

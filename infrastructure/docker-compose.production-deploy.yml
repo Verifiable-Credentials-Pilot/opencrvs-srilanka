@@ -48,6 +48,8 @@ services:
        - /var/run/docker.sock:/var/run/docker.sock
        - /data/traefik/certs:/etc/certs
        - /opt/opencrvs/infrastructure/traefik/certs.yaml:/etc/traefik/certs.yaml
+       
+              
      command:
        - --tls.certificates.certfile=/etc/certs/cert.crt
        - --tls.certificates.keyfile=/etc/certs/cert.key
