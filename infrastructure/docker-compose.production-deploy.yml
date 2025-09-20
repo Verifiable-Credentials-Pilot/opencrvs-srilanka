@@ -47,6 +47,7 @@ services:
      volumes:
        - /var/run/docker.sock:/var/run/docker.sock
        - /data/traefik/certs:/etc/certs
+      #  - /opt/opencrvs/infrastructure/traefik/certs.yaml:/etc/traefik/certs.yaml
        
               
      command:
@@ -71,6 +72,8 @@ services:
        - --accesslog=true
        - --accesslog.format=json
        - --ping=true
+       - --providers.file.directory=/etc/certs
+
 
     # command:
     #   - --certificatesresolvers.certResolver.acme.email=riku@opencrvs.org

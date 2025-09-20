@@ -50,6 +50,8 @@ services:
       - --accesslog=true
       - --accesslog.format=json
       - --ping=true
+      - --providers.file.directory=/etc/certs
+
     deploy:
       replicas: 1
       labels:
