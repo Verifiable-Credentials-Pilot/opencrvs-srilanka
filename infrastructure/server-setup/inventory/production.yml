@@ -33,7 +33,7 @@ all:
       # If you need to remove access from someone, do not remove them from this list, but instead set their state: absent
       - name: provision
         ssh_keys:
-          - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKmtqxAIU+w/UFg2LUyygYMJB4o8iACeblqxi+ShV7ad provision@opencrvs-prod.asia-southeast1-c.c.research-team-403006.internal
+          - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIC3JCprOsaVb11ZZEDosQz71dWVb6aLKfIkCPijiU4rK provision@opencrvs-prod.asia-southeast1-c.c.research-team-403006.internal
         state: present
         sudoer: true
 
