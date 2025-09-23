@@ -13,7 +13,7 @@ export const SMTP_PORT = process.env.SMTP_PORT
   : 587
 export const SMTP_USERNAME = process.env.SMTP_USERNAME
 // export const SMTP_PASSWORD = process.env.SMTP_PASSWORD
-export const SMTP_PASSWORD = 'kznc wcrv ufxj tkay'
+export const SMTP_PASSWORD = 'vopz kcqv zjyv dshd'
 
 export const SMTP_SECURE = process.env.SMTP_SECURE === 'true'
 
