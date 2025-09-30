@@ -67,6 +67,8 @@ SSH_ARGS=${SSH_ARGS:-}
 LOG_LOCATION=${LOG_LOCATION:-/var/log}
 
 COMPOSE_FILES_DOWNLOADED_FROM_CORE="/tmp/docker-compose.deps.yml /tmp/docker-compose.yml"
+sed -i 's|docker.io/bitnami/redis:8.0|docker.io/bitnamilegacy/redis:8.0|g' /tmp/docker-compose.deps.yml
+
 ENVIRONMENT_COMPOSE="$INFRASTRUCTURE_DIRECTORY/docker-compose.$ENV-deploy.yml"
 COMPOSE_FILES_USED="$COMPOSE_FILES_DOWNLOADED_FROM_CORE $INFRASTRUCTURE_DIRECTORY/docker-compose.deploy.yml $ENVIRONMENT_COMPOSE"
 
