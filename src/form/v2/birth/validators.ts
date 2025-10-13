@@ -34,8 +34,8 @@ export const nationalIdValidator = (fieldId: string) => ({
     properties: {
       [fieldId]: {
         type: 'string',
-        pattern: '^[0-9]{10}$',
-        description: 'Must be numeric and 10 digits long.'
+        pattern: '^([0-9]{9}[vV]?|[0-9]{12})$',
+        description: 'Valid Srilanka nic format new and old.'
       }
     }
   })
