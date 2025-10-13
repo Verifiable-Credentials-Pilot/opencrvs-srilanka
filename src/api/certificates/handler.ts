@@ -57,20 +57,12 @@ export async function certificateHandler(request: Request, h: ResponseToolkit) {
         delayed: 15
       },
       svgUrl: '/api/countryconfig/certificates/birth-certificate.svg',
-      // fonts: {
-      //   'Libre Baskerville': {
-      //     normal: '/api/countryconfig/fonts/LibreBaskerville-Regular.ttf',
-      //     bold: '/api/countryconfig/fonts/LibreBaskerville-Bold.ttf',
-      //     italics: '/api/countryconfig/fonts/LibreBaskerville-Italic.ttf',
-      //     bolditalics: '/api/countryconfig/fonts/LibreBaskerville-Regular.ttf'
-      //   }
-      // }
       fonts: {
-        TimesNewRoman: {
-          normal: '/api/countryconfig/fonts/TimesNewRoman-Regular.ttf',
-          bold: '/api/countryconfig/fonts/TimesNewRoman-Bold.ttf',
-          italics: '/api/countryconfig/fonts/TimesNewRoman-Italic.ttf',
-          bolditalics: '/api/countryconfig/fonts/TimesNewRoman-Regular.ttf'
+        'Libre Baskerville': {
+          normal: '/api/countryconfig/fonts/LibreBaskerville-Regular.ttf',
+          bold: '/api/countryconfig/fonts/LibreBaskerville-Bold.ttf',
+          italics: '/api/countryconfig/fonts/LibreBaskerville-Italic.ttf',
+          bolditalics: '/api/countryconfig/fonts/LibreBaskerville-Regular.ttf'
         }
       }
     },
@@ -90,20 +82,12 @@ export async function certificateHandler(request: Request, h: ResponseToolkit) {
       },
       svgUrl:
         '/api/countryconfig/certificates/birth-certificate-certified-copy.svg',
-      // fonts: {
-      //   'Libre Baskerville': {
-      //     normal: '/api/countryconfig/fonts/LibreBaskerville-Regular.ttf',
-      //     bold: '/api/countryconfig/fonts/LibreBaskerville-Bold.ttf',
-      //     italics: '/api/countryconfig/fonts/LibreBaskerville-Italic.ttf',
-      //     bolditalics: '/api/countryconfig/fonts/LibreBaskerville-Regular.ttf'
-      //   }
-      // }
       fonts: {
-        TimesNewRoman: {
-          normal: '/api/countryconfig/fonts/TimesNewRoman-Regular.ttf',
-          bold: '/api/countryconfig/fonts/TimesNewRoman-Bold.ttf',
-          italics: '/api/countryconfig/fonts/TimesNewRoman-Italic.ttf',
-          bolditalics: '/api/countryconfig/fonts/TimesNewRoman-Regular.ttf'
+        'Libre Baskerville': {
+          normal: '/api/countryconfig/fonts/LibreBaskerville-Regular.ttf',
+          bold: '/api/countryconfig/fonts/LibreBaskerville-Bold.ttf',
+          italics: '/api/countryconfig/fonts/LibreBaskerville-Italic.ttf',
+          bolditalics: '/api/countryconfig/fonts/LibreBaskerville-Regular.ttf'
         }
       }
     },
@@ -122,20 +106,12 @@ export async function certificateHandler(request: Request, h: ResponseToolkit) {
         delayed: 18
       },
       svgUrl: '/api/countryconfig/certificates/birth-registration-receipt.svg',
-      // fonts: {
-      //   'Noto Sans': {
-      //     normal: '/api/countryconfig/fonts/NotoSans-Regular.ttf',
-      //     bold: '/api/countryconfig/fonts/NotoSans-Bold.ttf',
-      //     italics: '/api/countryconfig/fonts/NotoSans-Regular.ttf',
-      //     bolditalics: '/api/countryconfig/fonts/NotoSans-Regular.ttf'
-      //   }
-      // }
       fonts: {
-        TimesNewRoman: {
-          normal: '/api/countryconfig/fonts/TimesNewRoman-Regular.ttf',
-          bold: '/api/countryconfig/fonts/TimesNewRoman-Bold.ttf',
-          italics: '/api/countryconfig/fonts/TimesNewRoman-Italic.ttf',
-          bolditalics: '/api/countryconfig/fonts/TimesNewRoman-Regular.ttf'
+        'Libre Baskerville': {
+          normal: '/api/countryconfig/fonts/LibreBaskerville-Regular.ttf',
+          bold: '/api/countryconfig/fonts/LibreBaskerville-Bold.ttf',
+          italics: '/api/countryconfig/fonts/LibreBaskerville-Italic.ttf',
+          bolditalics: '/api/countryconfig/fonts/LibreBaskerville-Regular.ttf'
         }
       }
     },
@@ -154,20 +130,12 @@ export async function certificateHandler(request: Request, h: ResponseToolkit) {
         delayed: 12
       },
       svgUrl: '/api/countryconfig/certificates/death-certificate.svg',
-      // fonts: {
-      //   'Noto Sans': {
-      //     normal: '/api/countryconfig/fonts/NotoSans-Regular.ttf',
-      //     bold: '/api/countryconfig/fonts/NotoSans-Bold.ttf',
-      //     italics: '/api/countryconfig/fonts/NotoSans-Regular.ttf',
-      //     bolditalics: '/api/countryconfig/fonts/NotoSans-Regular.ttf'
-      //   }
-      // }
       fonts: {
-        TimesNewRoman: {
-          normal: '/api/countryconfig/fonts/TimesNewRoman-Regular.ttf',
-          bold: '/api/countryconfig/fonts/TimesNewRoman-Bold.ttf',
-          italics: '/api/countryconfig/fonts/TimesNewRoman-Italic.ttf',
-          bolditalics: '/api/countryconfig/fonts/TimesNewRoman-Regular.ttf'
+        'Noto Sans': {
+          normal: '/api/countryconfig/fonts/NotoSans-Regular.ttf',
+          bold: '/api/countryconfig/fonts/NotoSans-Bold.ttf',
+          italics: '/api/countryconfig/fonts/NotoSans-Regular.ttf',
+          bolditalics: '/api/countryconfig/fonts/NotoSans-Regular.ttf'
         }
       }
     },
@@ -260,20 +228,12 @@ export async function certificateHandler(request: Request, h: ResponseToolkit) {
         delayed: 18
       },
       svgUrl: '/api/countryconfig/certificates/v2.birth-certificate.svg',
-      // fonts: {
-      //   'Noto Sans': {
-      //     normal: '/api/countryconfig/fonts/NotoSans-Regular.ttf',
-      //     bold: '/api/countryconfig/fonts/NotoSans-Bold.ttf',
-      //     italics: '/api/countryconfig/fonts/NotoSans-Regular.ttf',
-      //     bolditalics: '/api/countryconfig/fonts/NotoSans-Regular.ttf'
-      //   }
-      // }
       fonts: {
-        TimesNewRoman: {
-          normal: '/api/countryconfig/fonts/TimesNewRoman-Regular.ttf',
-          bold: '/api/countryconfig/fonts/TimesNewRoman-Bold.ttf',
-          italics: '/api/countryconfig/fonts/TimesNewRoman-Italic.ttf',
-          bolditalics: '/api/countryconfig/fonts/TimesNewRoman-Regular.ttf'
+        'Noto Sans': {
+          normal: '/api/countryconfig/fonts/NotoSans-Regular.ttf',
+          bold: '/api/countryconfig/fonts/NotoSans-Bold.ttf',
+          italics: '/api/countryconfig/fonts/NotoSans-Regular.ttf',
+          bolditalics: '/api/countryconfig/fonts/NotoSans-Regular.ttf'
         }
       }
     },
@@ -293,20 +253,12 @@ export async function certificateHandler(request: Request, h: ResponseToolkit) {
       },
       svgUrl:
         '/api/countryconfig/certificates/v2.birth-certificate-certified-copy.svg',
-      // fonts: {
-      //   'Noto Sans': {
-      //     normal: '/api/countryconfig/fonts/NotoSans-Regular.ttf',
-      //     bold: '/api/countryconfig/fonts/NotoSans-Bold.ttf',
-      //     italics: '/api/countryconfig/fonts/NotoSans-Regular.ttf',
-      //     bolditalics: '/api/countryconfig/fonts/NotoSans-Regular.ttf'
-      //   }
-      // }
       fonts: {
-        TimesNewRoman: {
-          normal: '/api/countryconfig/fonts/TimesNewRoman-Regular.ttf',
-          bold: '/api/countryconfig/fonts/TimesNewRoman-Bold.ttf',
-          italics: '/api/countryconfig/fonts/TimesNewRoman-Italic.ttf',
-          bolditalics: '/api/countryconfig/fonts/TimesNewRoman-Regular.ttf'
+        'Noto Sans': {
+          normal: '/api/countryconfig/fonts/NotoSans-Regular.ttf',
+          bold: '/api/countryconfig/fonts/NotoSans-Bold.ttf',
+          italics: '/api/countryconfig/fonts/NotoSans-Regular.ttf',
+          bolditalics: '/api/countryconfig/fonts/NotoSans-Regular.ttf'
         }
       }
     },
