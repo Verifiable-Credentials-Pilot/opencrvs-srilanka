@@ -436,7 +436,7 @@ correction.summary.submitter,Submitter of certificate correction summary,Submitt
 form.customField.label.numberOfDependants,,No. of dependants
 form.customField.label.reasonForLateRegistrationBirth,,Reason for delayed registration
 form.customField.label.reasonForLateRegistrationDeath,,Reason for late registration
-form.field.helpertext.nid,Helper text for nid input field,The National ID can only be numeric and must be 10 digits long
+form.field.helpertext.nid,Helper text for nid input field,This should be a valid Sri Lankan NIC
 form.field.label.addressLine1RuralOption,,Village
 form.field.label.addressLine1UrbanOption,,Residential Area
 form.field.label.addressLine2UrbanOption,,Street

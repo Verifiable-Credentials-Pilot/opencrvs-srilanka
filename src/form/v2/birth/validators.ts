@@ -24,8 +24,7 @@ export const invalidNameValidator = (fieldName: string) => ({
 
 export const nationalIdValidator = (fieldId: string) => ({
   message: {
-    defaultMessage:
-      'The national ID can only be numeric and must be 10 digits long',
+    defaultMessage: 'This should be a valid Sri Lankan NIC',
     description: 'This is the error message for an invalid national ID',
     id: 'v2.error.invalidNationalId'
   },

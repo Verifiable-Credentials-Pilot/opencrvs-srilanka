@@ -829,7 +829,7 @@ form.field.SearchField.modalTitle,,"{fieldName, select, registrationOffice {Assi
 form.field.SearchField.officeLocationId,,Id: {locationId},අංකය: {locationId},ஐடி: {locationId}
 form.field.SearchField.placeHolderText,,Search,සෙවුම,தேடல்
 form.field.dateRangepicker.checkbox.dateLabel,,{rangeStart} to {rangeEnd},{rangeStart} සිට {rangeEnd} දක්වා දක්වා,{rangeStart} முதல் {rangeEnd} வரை
-form.field.helpertext.nid,Helper text for nid input field,The National ID can only be numeric and must be 10 digits long,ජාතික හැඳුනුම් අංකය සංඛ්‍යාත්මයෙන් පමණි විය යුතු හා 10 දශක දිගු විය යුතුයි,தேசிய ஐடி எண்ணிக்கையாக மட்டுமே இருக்க வேண்டும் மற்றும் 10 இலக்கங்களாக இருக்க வேண்டும்.
+form.field.helpertext.nid,Helper text for nid input field,This should be a valid Sri Lankan NIC,ජාතික හැඳුනුම් අංකය සංඛ්‍යාත්මයෙන් පමණි විය යුතු හා 10 දශක දිගු විය යුතුයි,தேசிய ஐடி எண்ணிக்கையாக மட்டுமே இருக்க வேண்டும் மற்றும் 10 இலக்கங்களாக இருக்க வேண்டும்.
 form.field.hideLabel,Button to hide section,Hide,පැහැදිලි කරන්න,மறைக்க
 form.field.label.NID,,NID,නි.අ.ඩි.,என் பெயர் {name} ஆகும்.
 form.field.label.NIDNetErr,,The request to the NID system was unsuccessful. Please try again with a better connection.,NID පද්ධතියට ඉල්ලීම සාර්ථකව නොවේ. ක්‍රියාත්මක සම්බන්ධයක් සහිත නැති නම් නැවත උත්සහා කරන්න.,NID அமைப்புக்கு கோரிக்கை வெற்றிகரமாக இல்லை. சிறந்த இணைப்புடன் மீண்டும் முயற்சி செய்க.
@@ -1241,7 +1241,7 @@ form.field.previewGroups.secondaryAddress,,Secondary address,දෙවන ලි
 form.field.qr.validation.error,Error message for QR code validation,This QR code is not recognised.,මෙම QR කේතය හඳුනාගෙන නැත.,குறியீடு அடையாளம் காணப்படவில்லை.
 form.field.select.placeholder,,Select,තෝරන්න,தேர்ந்தெடுக்கவும்
 form.field.showLabel,Button to show section,Show,පෙන්වන්න,காட்டு
-form.field.tooltip.tooltipNationalID,,The National ID can only be numeric and must be 10 digits long,ජාතික හැඳුනුම් අංකය සංඛ්‍යාත්මයෙන් පමණි විය යුතු හා 10 දශක දිගු විසින් විය හැකිය,தேசிய ஐடி எண்ணிக்கையாக மட்டுமே இருக்க வேண்டும் மற்றும் 10 இலக்கங்களாக இருக்க வேண்டும்.
+form.field.tooltip.tooltipNationalID,,This should be a valid Sri Lankan NIC,ජාතික හැඳුනුම් අංකය සංඛ්‍යාත්මයෙන් පමණි විය යුතු හා 10 දශක දිගු විසින් විය හැකිය,தேசிய ஐடி எண்ணிக்கையாக மட்டுமே இருக்க வேண்டும் மற்றும் 10 இலக்கங்களாக இருக்க வேண்டும்.
 form.group.reasonNotApplying.parents,,Why are the mother and father not applying?,මව් සහ පියා ඇතුළු වෙනස් කිරීම් කරනවාද?,அம்மா மற்றும் அப்பா ஏன் விண்ணப்பிக்கவில்லை?
 form.preview.group.label.english.name,,Full name in English,ඉංග්‍රීසිෙන් සම්පූර්ණ නම,ஆங்கிலத்தில் முழுப் பெயர்
 form.preview.group.label.father.english.name,,Full name,සම්පූර්ණ නම,முழு பெயர்
@@ -2924,7 +2924,7 @@ validations.validBirthRegistrationNumber,The error message that appears when an 
 validations.validDeathRegistrationNumber,The error message that appears when an invalid value is used as drn,The Death Registration Number can only be alpha numeric and must be {validLength} characters long,මරණ ලියාපදිංචි අංකය අක්ෂර සංඛ්‍යාත්මක විය යුතු අතර අක්‍ෂර {validLength}ක් දිග විය යුතුය,இறப்புப் பதிவு எண் எழுத்து மற்றும் எண் சேர்த்ததாக மட்டுமே இருக்க வேண்டும் மற்றும் {validLength} எழுத்துகளாக இருக்க வேண்டும்
 validations.validDrivingLicenseNumber,The error message that appeards when an invalid value is used as driving license number,The Driving License Number can only be alpha numeric and must be {validLength} characters long,රියදුරු බලපත්‍ර අංකය පරිදි සංඛ්‍යාත්මක හා වලංගු දැක්ම විස්තර {validLength} අක්ෂර දිගටම දින යුතුය,ஓட்டு அனுமதி எண் அல்லாத அல்பா என்றும் எண்ணிக்கையுடன் இருக்க வேண்டும் மற்றும் {validLength} எழுத்துக்கள் நீளமாக இருக்க வேண்டும்.
 validations.validNationalIDLengths,Nid valid lengths,9,9,9
-validations.validNationalId,The error message that appears when an invalid value is used as nid,The National ID can only be numeric and must be 10 digits long,ජාතික හැඳුනුම් අංකය සංඛ්‍යාත්මයෙන් පමණි විය යුතු හා 10 අංකවල් දිගටම දිනවල් විය යුතු ය.,தேசிய ஐடி எண்ணிக்கையாக மட்டுமே இருக்க வேண்டும் மற்றும் 10 இலக்கங்களாக இருக்க வேண்டும்.
+validations.validNationalId,The error message that appears when an invalid value is used as nid,This should be a valid Sri Lankan NIC,ජාතික හැඳුනුම් අංකය සංඛ්‍යාත්මයෙන් පමණි විය යුතු හා 10 අංකවල් දිගටම දිනවල් විය යුතු ය.,தேசிய ஐடி எண்ணிக்கையாக மட்டுமே இருக்க வேண்டும் மற்றும் 10 இலக்கங்களாக இருக்க வேண்டும்.
 validations.validPassportNumber,The error message that appears when an invalid value is used as passport number,The Passport Number can only be alpha numeric and must be {validLength} characters long,කාමර අංකය පරික්ෂා හා වලංගු දිනය විසින් {validLength} අක්ෂර හෝ අක්ෂර සංඛ්‍යාවේ දිනය විසින් ය.,பாஸ்போர்ட் எண் அல்பாநியூமெரிக் மட்டுமே இருக்க வேண்டும் மற்றும் {validLength} எண்கள் நீளமாக இருக்க வேண்டும்.
 verifyCertificate.brn,Label for Birth Registration Number,BRN,BRN,பி.ஆர்.என்.
 verifyCertificate.certifiedAt,Label for date of certification,Date of certification,සහත් දිනය,சான்றிதழ் தேதி
