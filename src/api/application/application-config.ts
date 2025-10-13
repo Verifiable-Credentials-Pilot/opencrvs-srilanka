@@ -28,7 +28,7 @@ export const applicationConfig = {
     PRINT_IN_ADVANCE: true
   },
   PHONE_NUMBER_PATTERN: '^0(7|9)[0-9]{8}$',
-  NID_NUMBER_PATTERN: '^[0-9]{10}$',
+  NID_NUMBER_PATTERN: '^([0-9]{9}[vV]?|[0-9]{12})$',
   LOGIN_BACKGROUND: {
     backgroundImage: `data:image/jpg;base64,${fs
       .readFileSync(join(__dirname, 'sigiriya.jpg'))

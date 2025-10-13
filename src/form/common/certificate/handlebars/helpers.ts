@@ -27,7 +27,7 @@ export function debug(): Handlebars.HelperDelegate {
 export function gender(): Handlebars.HelperDelegate {
   return function (gender: string, lang: 'en' | 'si' | 'ta') {
     if (lang === 'si') {
-      return gender === 'Male' ? 'පුරුෂ' : 'ගැහැණි'
+      return gender === 'Male' ? 'පුරුෂ' : 'ගැහැණු'
     } else if (lang === 'ta') {
       return gender === 'Male' ? 'ஆண்' : 'பெண்'
     } else {
