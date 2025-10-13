@@ -1,7 +1,7 @@
 <svg width="595" height="842" viewBox="0 0 595 842" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <rect width="595" height="842" fill="white" />
   <g clip-path="url(#clip0_1157_5003)">
-    <text fill="#8D8D8D" xml:space="preserve" style="white-space: pre" font-family="Libre Baskerville" font-size="6" font-weight="bold" letter-spacing="0px">
+    <text fill="#8D8D8D" xml:space="preserve" style="white-space: pre" font-family="TimesNewRoman" font-size="6" font-weight="bold" letter-spacing="0px">
       <tspan x="61.9999" y="780.593">CAUTION : THERE ARE OFFENCES RELATING TO FALSIFYING OR ALTERING A CERTIFICATE AND USING OR POSSESSING A FALSE CERTIFICATE </tspan>
       <tspan x="61.9999" y="790.593">අවවාදයයි: සහතිකයක් ව්‍යාජ කිරීම, වෙනස් කිරීම, හෝ ව්‍යාජ සහතිකයක් භාවිතා කිරීම හෝ රඳවා තබා ගැනීම සම්බන්ධයෙන් අපරාධ පවතී</tspan>
       <tspan x="61.9999" y="800.593">எச்சரிக்கை: சான்றிதழ்களை களையுதல், மாற்றுதல், அல்லது போலிச் சான்றிதழ்களை பயன்படுத்துதல் அல்லது வைத்திருத்தல் தொடர்பான குற்றங்கள் உள்ளன</tspan>
@@ -247,31 +247,31 @@
 <path fill-rule="evenodd" clip-rule="evenodd" d="M296.806 73.1736C296.806 73.112 296.624 72.9453 296.44 72.8378C296.295 72.7534 296.271 72.7508 296.271 72.8197C296.27 72.9242 296.177 73.1867 296.14 73.1867C296.119 73.1867 296.089 73.1354 296.072 73.0727C296.055 73.01 295.985 72.8864 295.916 72.7981L295.79 72.6375L295.692 72.7863C295.601 72.925 295.443 73.0609 295.373 73.0609C295.357 73.0609 295.353 72.9878 295.366 72.8985C295.38 72.8015 295.369 72.7245 295.34 72.7073C295.312 72.6914 295.29 72.6969 295.29 72.7196C295.29 72.7719 295.07 73.0189 295.024 73.0189C295.005 73.0189 294.978 72.9481 294.965 72.8616C294.951 72.7751 294.928 72.6383 294.913 72.5575C294.899 72.4768 294.93 72.5315 294.983 72.6792L295.079 72.9477L295.184 72.7841C295.242 72.6941 295.289 72.5957 295.29 72.5655C295.29 72.5353 295.309 72.522 295.333 72.5358C295.357 72.5496 295.39 72.6578 295.407 72.7762L295.437 72.9914L295.553 72.8652C295.617 72.7958 295.691 72.7029 295.719 72.6588C295.768 72.58 295.771 72.58 295.869 72.6624C295.923 72.7085 296.008 72.8189 296.056 72.9076C296.104 72.9964 296.15 73.0624 296.158 73.0544C296.166 73.0464 296.183 72.9549 296.197 72.8511C296.211 72.7473 296.223 72.6585 296.224 72.6538C296.231 72.6281 296.573 72.849 296.7 72.9609C296.781 73.0328 296.859 73.0816 296.872 73.0692C296.885 73.0569 296.895 72.9509 296.895 72.8335C296.895 72.6517 296.876 72.6029 296.764 72.5035C296.635 72.3892 296.632 72.3886 296.584 72.4722C296.522 72.5807 296.449 72.5823 296.449 72.4751C296.449 72.3968 296.206 72.0961 296.143 72.0961C296.126 72.0961 296.075 72.1622 296.029 72.2429C295.983 72.3236 295.933 72.3897 295.918 72.3896C295.856 72.3892 295.513 72.0093 295.513 71.9407C295.513 71.8862 295.536 71.9001 295.596 71.9912C295.642 72.0604 295.733 72.1638 295.799 72.2208C295.933 72.3364 295.981 72.3083 296.033 72.0856C296.047 72.0222 296.073 71.9703 296.089 71.9703C296.146 71.9703 296.445 72.2853 296.487 72.3897L296.529 72.4946L296.561 72.3792C296.6 72.2382 296.643 72.2329 296.706 72.3616C296.732 72.4154 296.86 72.5272 296.991 72.6101L297.23 72.7607L297.278 72.6092C297.304 72.5259 297.339 72.478 297.355 72.5028C297.38 72.5397 297.318 72.7909 297.271 72.8449C297.264 72.853 297.187 72.8083 297.099 72.7455L296.94 72.6314L296.939 72.8356C296.939 72.948 296.927 73.0823 296.912 73.1342C296.883 73.2357 296.806 73.2643 296.806 73.1736ZM295.617 71.5455C295.333 71.3104 295.29 71.2566 295.297 71.1452L295.303 71.0266L295.322 71.1412C295.333 71.2081 295.408 71.3083 295.503 71.3821L295.666 71.5084L295.766 71.3934C295.822 71.3301 295.867 71.2547 295.868 71.2259C295.87 71.1507 295.884 71.157 296.076 71.3224C296.247 71.4693 296.249 71.4701 296.275 71.3748C296.289 71.3218 296.284 71.2218 296.263 71.1528C296.208 70.963 296.219 70.9343 296.303 71.0488C296.345 71.1058 296.413 71.1865 296.453 71.228C296.524 71.3002 296.528 71.2994 296.555 71.207C296.57 71.154 296.582 71.0568 296.583 70.9912L296.583 70.8719L296.737 71.045C296.881 71.2067 296.894 71.2126 296.938 71.1356C296.964 71.0903 296.985 70.9811 296.986 70.8931C296.986 70.7794 296.998 70.7507 297.027 70.794C297.076 70.8663 297.042 71.0632 296.952 71.2309L296.888 71.3513L296.803 71.2204C296.695 71.0531 296.659 71.0558 296.59 71.2364C296.524 71.4071 296.481 71.4201 296.417 71.2888C296.376 71.2039 296.368 71.2143 296.339 71.3927L296.306 71.591L295.915 71.2895L295.827 71.3888C295.779 71.4434 295.738 71.5117 295.737 71.5405C295.736 71.603 295.689 71.6049 295.617 71.5455ZM298.139 70.6699C298.036 70.5775 297.965 70.4894 297.981 70.4741C297.997 70.4588 298.016 70.4544 298.022 70.4644C298.028 70.4743 298.112 70.5624 298.209 70.6601C298.432 70.885 298.387 70.8914 298.139 70.6699ZM294.78 70.3251C294.686 70.1991 294.692 70.1155 294.806 69.9789C294.889 69.8802 294.927 69.8668 295.071 69.885C295.163 69.8966 295.362 69.9778 295.513 70.0653C295.687 70.1664 295.868 70.2341 296.007 70.2509C296.128 70.2655 296.227 70.271 296.227 70.2632C296.227 70.2553 296.176 70.1741 296.115 70.0828C295.969 69.8658 295.974 69.8425 296.139 69.9725C296.307 70.1059 296.509 70.1449 296.96 70.1313L297.18 70.1247L297.052 69.9993C296.874 69.8239 296.929 69.8082 297.126 69.9782C297.311 70.1377 297.299 70.1489 296.91 70.1876C296.744 70.204 296.566 70.1921 296.418 70.1547C296.197 70.0988 296.188 70.0997 296.23 70.1733C296.255 70.2158 296.294 70.2505 296.317 70.2505C296.341 70.2505 296.36 70.2721 296.36 70.2983C296.36 70.3792 295.882 70.3081 295.654 70.1932C295.132 69.9309 295.066 69.9082 294.942 69.947C294.873 69.9687 294.804 70.032 294.78 70.0954C294.7 70.307 295.003 70.4715 295.127 70.2845C295.164 70.2302 295.155 70.1931 295.092 70.1272C295.005 70.0368 295.013 70.0239 295.13 70.0663C295.214 70.0964 295.225 70.2951 295.147 70.368C295.058 70.4514 294.856 70.4278 294.78 70.3251H294.78Z" fill="black"/>
 <path fill-rule="evenodd" clip-rule="evenodd" d="M296.835 69.8026C296.77 69.7413 296.821 69.7262 297.114 69.7208C297.476 69.7141 297.695 69.6542 297.955 69.4917C298.163 69.3614 298.219 69.387 298.022 69.5221C297.842 69.6453 297.561 69.74 297.29 69.769C297.159 69.783 297.009 69.8024 296.958 69.8122C296.906 69.8219 296.851 69.8176 296.835 69.8026Z" fill="black"/>
 </g>
-  <text fill="#222222" xml:space="preserve" style="white-space: pre" font-family="Libre Baskerville" font-size="8" letter-spacing="0px">
+  <text fill="#222222" xml:space="preserve" style="white-space: pre" font-family="TimesNewRoman" font-size="8" letter-spacing="0px">
     <tspan x="80.9999" y="667.352"></tspan>
     <tspan x="136.164" y="667.352"></tspan>
   </text>
-  <text fill="#222222" xml:space="preserve" style="white-space: pre" font-family="Libre Baskerville" font-size="8" letter-spacing="0px">
+  <text fill="#222222" xml:space="preserve" style="white-space: pre" font-family="TimesNewRoman" font-size="8" letter-spacing="0px">
     <tspan x="234.289" y="654.552">&#x2028;</tspan>
     <tspan x="80.9999" y="667.352">{{certificateDate}}</tspan>
   </text>
-  <text fill="#222222" xml:space="preserve" style="white-space: pre" font-family="Libre Baskerville" font-size="8" font-weight="bold" letter-spacing="0px">
+  <text fill="#222222" xml:space="preserve" style="white-space: pre" font-family="TimesNewRoman" font-size="8" font-weight="bold" letter-spacing="0px">
     <tspan x="80.9999" y="654.552">Date of certification / සහතික කිරීමේ දිනය / சான்றிதழ் வழங்கப்பட்ட தேதி</tspan>
   </text>
-  <text fill="#222222" xml:space="preserve" style="white-space: pre" font-family="Libre Baskerville" font-size="8" letter-spacing="0px">
+  <text fill="#222222" xml:space="preserve" style="white-space: pre" font-family="TimesNewRoman" font-size="8" letter-spacing="0px">
     <tspan x="80.9999" y="701.112">{{location loggedInUser.officeId 'name'}}&#x2028;</tspan>
     <tspan x="80.9999" y="713.912">{{location loggedInUser.districtId 'name'}}, {{location loggedInUser.stateId 'name'}}, Sri Lanka</tspan>
   </text>
-  <text fill="#222222" xml:space="preserve" style="white-space: pre" font-family="Libre Baskerville" font-size="8" letter-spacing="0px">
+  <text fill="#222222" xml:space="preserve" style="white-space: pre" font-family="TimesNewRoman" font-size="8" letter-spacing="0px">
     <tspan x="234.391" y="688.312">&#x2028;</tspan>
   </text>
-  <text fill="#222222" xml:space="preserve" style="white-space: pre" font-family="Libre Baskerville" font-size="8" font-weight="bold" letter-spacing="0px">
+  <text fill="#222222" xml:space="preserve" style="white-space: pre" font-family="TimesNewRoman" font-size="8" font-weight="bold" letter-spacing="0px">
     <tspan x="80.9999" y="688.312">Place of certification / සහතිකය නිකුත් කළ ස්ථානය / சான்றிதழ் வழங்கிய இடம்</tspan>
   </text>
-  <!--<text fill="#222222" xml:space="preserve" style="white-space: pre" font-family="Libre Baskerville" font-size="8" letter-spacing="0.485px">
+  <!--<text fill="#222222" xml:space="preserve" style="white-space: pre" font-family="TimesNewRoman" font-size="8" letter-spacing="0.485px">
     <tspan x="80.9999" y="747.084">{{mosipAid}}</tspan>
   </text>
-  <text fill="#222222" xml:space="preserve" style="white-space: pre" font-family="Libre Baskerville" font-size="8" font-weight="bold" letter-spacing="0px">
+  <text fill="#222222" xml:space="preserve" style="white-space: pre" font-family="TimesNewRoman" font-size="8" font-weight="bold" letter-spacing="0px">
     <tspan x="80.9999" y="735.444">MOSIP Application ID / MOSIP Application ID&#10;</tspan>
   </text>-->
   <g clip-path="url(#clip2_1157_5003)">
@@ -279,146 +279,146 @@
   </g>
   <path d="M321.76 715.071L512.079 715.969" stroke="#CCCCCC" stroke-width="0.75879" stroke-dasharray="3.04 1.52" />
   <path d="M321.76 715.071L512.079 715.969" stroke="#CCCCCC" stroke-width="0.75879" stroke-dasharray="3.04 1.52" />
-  <text fill="#222222" xml:space="preserve" style="white-space: pre" font-family="Libre Baskerville" font-size="7.76" font-weight="bold" letter-spacing="0px">
+  <text fill="#222222" xml:space="preserve" style="white-space: pre" font-family="TimesNewRoman" font-size="7.76" font-weight="bold" letter-spacing="0px">
     <tspan x="357.751" y="728.084">Registrar / ලියාපදිංචි කිරීමේ නිලධාරියා / பதிவாளர்</tspan>
   </text>
-  <text fill="#222222" xml:space="preserve" style="white-space: pre" font-family="Libre Baskerville" font-size="7.76" letter-spacing="0px">
+  <text fill="#222222" xml:space="preserve" style="white-space: pre" font-family="TimesNewRoman" font-size="7.76" letter-spacing="0px">
     <tspan x="391.819" y="740.694">{{registrar.name}}</tspan>
   </text>
-  <text fill="#038E86" xml:space="preserve" style="white-space: pre" font-family="Libre Baskerville" font-size="9.7" font-weight="bold" letter-spacing="0px">
+  <text fill="#038E86" xml:space="preserve" style="white-space: pre" font-family="TimesNewRoman" font-size="9.7" font-weight="bold" letter-spacing="0px">
     <tspan x="403.421" y="126.364">&#x2028;</tspan>
   </text>
-  <text fill="#222222" xml:space="preserve" style="white-space: pre" font-family="Libre Baskerville" font-size="7.76" font-weight="bold" letter-spacing="0px">
+  <text fill="#222222" xml:space="preserve" style="white-space: pre" font-family="TimesNewRoman" font-size="7.76" font-weight="bold" letter-spacing="0px">
     <tspan x="60" y="126.364">DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA / ශ්‍රී ලංකා ප්‍රජාතාන්ත්‍රික සමාජවාදී ජනරජය / இலங்கை ஜனநாயக சோசலிசக் குடியரசு</tspan>
   </text>
-  <text fill="#038E86" xml:space="preserve" style="white-space: pre" font-family="Libre Baskerville" font-size="11.64" font-weight="bold" letter-spacing="0px">
+  <text fill="#038E86" xml:space="preserve" style="white-space: pre" font-family="TimesNewRoman" font-size="11.64" font-weight="bold" letter-spacing="0px">
     <tspan x="135" y="145.364">CERTIFICATE OF BIRTH / උපන් සහතිකය / பிறந்த சான்றிதழ்</tspan>
   </text>
   <g clip-path="url(#clip3_1157_5003)">
-  <text fill="#222222" font-family="Libre Baskerville" font-size="9.7" font-weight="bold" letter-spacing="0px" style="white-space: pre" x="60" xml:space="preserve" y="230.0">
+  <text fill="#222222" font-family="TimesNewRoman" font-size="9.7" font-weight="bold" letter-spacing="0px" style="white-space: pre" x="60" xml:space="preserve" y="230.0">
   Child’s full name
  </text>
- <text fill="#222222" font-family="Libre Baskerville" font-size="9.7" font-weight="bold" letter-spacing="0px" style="white-space: pre" x="60" xml:space="preserve" y="240.0">
+ <text fill="#222222" font-family="TimesNewRoman" font-size="9.7" font-weight="bold" letter-spacing="0px" style="white-space: pre" x="60" xml:space="preserve" y="240.0">
   දරුවාගේ සම්පූර්ණ නම
  </text>
- <text fill="#222222" font-family="Libre Baskerville" font-size="9.7" font-weight="bold" letter-spacing="0px" style="white-space: pre" x="60" xml:space="preserve" y="250.0">
+ <text fill="#222222" font-family="TimesNewRoman" font-size="9.7" font-weight="bold" letter-spacing="0px" style="white-space: pre" x="60" xml:space="preserve" y="250.0">
   குழந்தையின் முழுப்பெயர்
  </text>
- <text fill="#222222" font-family="Libre Baskerville" font-size="9.7" letter-spacing="0px" style="white-space: pre" x="264" xml:space="preserve" y="230.0">
+ <text fill="#222222" font-family="TimesNewRoman" font-size="9.7" letter-spacing="0px" style="white-space: pre" x="264" xml:space="preserve" y="230.0">
   {{childFirstName}} {{childFamilyName}}
  </text>
- <text fill="#222222" font-family="Libre Baskerville" font-size="9.7" letter-spacing="0px" style="white-space: pre" x="264" xml:space="preserve" y="240.0">
+ <text fill="#222222" font-family="TimesNewRoman" font-size="9.7" letter-spacing="0px" style="white-space: pre" x="264" xml:space="preserve" y="240.0">
   {{birthChildChildSinhalaFirstName}} {{birthChildChildSinhalaFamilyName}}
  </text>
- <text fill="#222222" font-family="Libre Baskerville" font-size="9.7" letter-spacing="0px" style="white-space: pre" x="264" xml:space="preserve" y="250.0">
+ <text fill="#222222" font-family="TimesNewRoman" font-size="9.7" letter-spacing="0px" style="white-space: pre" x="264" xml:space="preserve" y="250.0">
   {{birthChildChildTamilFirstName}} {{birthChildChildTamilFamilyName}}
  </text>
- <text fill="#222222" font-family="Libre Baskerville" font-size="9.7" font-weight="bold" letter-spacing="0px" style="white-space: pre" x="60" xml:space="preserve" y="290.0">
+ <text fill="#222222" font-family="TimesNewRoman" font-size="9.7" font-weight="bold" letter-spacing="0px" style="white-space: pre" x="60" xml:space="preserve" y="290.0">
   Sex
  </text>
- <text fill="#222222" font-family="Libre Baskerville" font-size="9.7" font-weight="bold" letter-spacing="0px" style="white-space: pre" x="60" xml:space="preserve" y="300.0">
+ <text fill="#222222" font-family="TimesNewRoman" font-size="9.7" font-weight="bold" letter-spacing="0px" style="white-space: pre" x="60" xml:space="preserve" y="300.0">
   ස්ත්‍රී පුරුෂ භාවය
  </text>
- <text fill="#222222" font-family="Libre Baskerville" font-size="9.7" font-weight="bold" letter-spacing="0px" style="white-space: pre" x="60" xml:space="preserve" y="310.0">
+ <text fill="#222222" font-family="TimesNewRoman" font-size="9.7" font-weight="bold" letter-spacing="0px" style="white-space: pre" x="60" xml:space="preserve" y="310.0">
   பாலினம்
  </text>
- <text fill="#222222" font-family="Libre Baskerville" font-size="9.7" letter-spacing="0px" style="white-space: pre" x="264" xml:space="preserve" y="290.0">
+ <text fill="#222222" font-family="TimesNewRoman" font-size="9.7" letter-spacing="0px" style="white-space: pre" x="264" xml:space="preserve" y="290.0">
   {{{gender childGender 'en'}}}
  </text>
- <text fill="#222222" font-family="Libre Baskerville" font-size="9.7" letter-spacing="0px" style="white-space: pre" x="264" xml:space="preserve" y="300.0">
+ <text fill="#222222" font-family="TimesNewRoman" font-size="9.7" letter-spacing="0px" style="white-space: pre" x="264" xml:space="preserve" y="300.0">
   {{{gender childGender 'si'}}}
  </text>
- <text fill="#222222" font-family="Libre Baskerville" font-size="9.7" letter-spacing="0px" style="white-space: pre" x="264" xml:space="preserve" y="310.0">
+ <text fill="#222222" font-family="TimesNewRoman" font-size="9.7" letter-spacing="0px" style="white-space: pre" x="264" xml:space="preserve" y="310.0">
   {{{gender childGender 'ta'}}}
  </text>
  <rect fill="none" height="60" stroke="#ECECEC" stroke-width="0.97" width="204" x="50" y="270.0"/>
  <rect fill="none" height="60" stroke="#ECECEC" stroke-width="0.97" width="475" x="254" y="270.0"/>
- <text fill="#222222" font-family="Libre Baskerville" font-size="9.7" font-weight="bold" letter-spacing="0px" style="white-space: pre" x="60" xml:space="preserve" y="350.0">
+ <text fill="#222222" font-family="TimesNewRoman" font-size="9.7" font-weight="bold" letter-spacing="0px" style="white-space: pre" x="60" xml:space="preserve" y="350.0">
   Date of birth
  </text>
- <text fill="#222222" font-family="Libre Baskerville" font-size="9.7" font-weight="bold" letter-spacing="0px" style="white-space: pre" x="60" xml:space="preserve" y="360.0">
+ <text fill="#222222" font-family="TimesNewRoman" font-size="9.7" font-weight="bold" letter-spacing="0px" style="white-space: pre" x="60" xml:space="preserve" y="360.0">
   උපන් දිනය
  </text>
- <text fill="#222222" font-family="Libre Baskerville" font-size="9.7" font-weight="bold" letter-spacing="0px" style="white-space: pre" x="60" xml:space="preserve" y="370.0">
+ <text fill="#222222" font-family="TimesNewRoman" font-size="9.7" font-weight="bold" letter-spacing="0px" style="white-space: pre" x="60" xml:space="preserve" y="370.0">
   பிறந்த தேதி
  </text>
- <text fill="#222222" font-family="Libre Baskerville" font-size="9.7" letter-spacing="0px" style="white-space: pre" x="264" xml:space="preserve" y="350.0">
+ <text fill="#222222" font-family="TimesNewRoman" font-size="9.7" letter-spacing="0px" style="white-space: pre" x="264" xml:space="preserve" y="350.0">
   
  </text>
- <text fill="#222222" font-family="Libre Baskerville" font-size="9.7" letter-spacing="0px" style="white-space: pre" x="264" xml:space="preserve" y="360.0">
+ <text fill="#222222" font-family="TimesNewRoman" font-size="9.7" letter-spacing="0px" style="white-space: pre" x="264" xml:space="preserve" y="360.0">
   {{eventDate}}
  </text>
- <text fill="#222222" font-family="Libre Baskerville" font-size="9.7" letter-spacing="0px" style="white-space: pre" x="264" xml:space="preserve" y="370.0">
+ <text fill="#222222" font-family="TimesNewRoman" font-size="9.7" letter-spacing="0px" style="white-space: pre" x="264" xml:space="preserve" y="370.0">
  
  </text>
  <rect fill="none" height="60" stroke="#ECECEC" stroke-width="0.97" width="204" x="50" y="330.0"/>
  <rect fill="none" height="60" stroke="#ECECEC" stroke-width="0.97" width="475" x="254" y="330.0"/>
- <text fill="#222222" font-family="Libre Baskerville" font-size="9.7" font-weight="bold" letter-spacing="0px" style="white-space: pre" x="60" xml:space="preserve" y="410.0">
+ <text fill="#222222" font-family="TimesNewRoman" font-size="9.7" font-weight="bold" letter-spacing="0px" style="white-space: pre" x="60" xml:space="preserve" y="410.0">
   Place of birth
  </text>
- <text fill="#222222" font-family="Libre Baskerville" font-size="9.7" font-weight="bold" letter-spacing="0px" style="white-space: pre" x="60" xml:space="preserve" y="420.0">
+ <text fill="#222222" font-family="TimesNewRoman" font-size="9.7" font-weight="bold" letter-spacing="0px" style="white-space: pre" x="60" xml:space="preserve" y="420.0">
   උපන් ස්ථානය
  </text>
- <text fill="#222222" font-family="Libre Baskerville" font-size="9.7" font-weight="bold" letter-spacing="0px" style="white-space: pre" x="60" xml:space="preserve" y="430.0">
+ <text fill="#222222" font-family="TimesNewRoman" font-size="9.7" font-weight="bold" letter-spacing="0px" style="white-space: pre" x="60" xml:space="preserve" y="430.0">
   பிறந்த இடம்
  </text>
- <text fill="#222222" font-family="Libre Baskerville" font-size="9.7" letter-spacing="0px" style="white-space: pre" x="264" xml:space="preserve" y="410.0">
+ <text fill="#222222" font-family="TimesNewRoman" font-size="9.7" letter-spacing="0px" style="white-space: pre" x="264" xml:space="preserve" y="410.0">
   {{#ifCond placeOfBirth '===' 'HEALTH_FACILITY' }}{{placeOfBirth}}{{else}}{{statePlaceofbirth}}{{internationalStatePlaceofbirth}},{{/ifCond}}
  </text>
- <text fill="#222222" font-family="Libre Baskerville" font-size="9.7" letter-spacing="0px" style="white-space: pre" x="264" xml:space="preserve" y="420.0">
+ <text fill="#222222" font-family="TimesNewRoman" font-size="9.7" letter-spacing="0px" style="white-space: pre" x="264" xml:space="preserve" y="420.0">
   {{countryPlaceofbirth}}
  </text>
- <text fill="#222222" font-family="Libre Baskerville" font-size="9.7" letter-spacing="0px" style="white-space: pre" x="264" xml:space="preserve" y="430.0">
+ <text fill="#222222" font-family="TimesNewRoman" font-size="9.7" letter-spacing="0px" style="white-space: pre" x="264" xml:space="preserve" y="430.0">
   
  </text>
  <rect fill="none" height="60" stroke="#ECECEC" stroke-width="0.97" width="204" x="50" y="390.0"/>
  <rect fill="none" height="60" stroke="#ECECEC" stroke-width="0.97" width="475" x="254" y="390.0"/>
- <text fill="#222222" font-family="Libre Baskerville" font-size="9.7" font-weight="bold" letter-spacing="0px" style="white-space: pre" x="60" xml:space="preserve" y="470.0">
+ <text fill="#222222" font-family="TimesNewRoman" font-size="9.7" font-weight="bold" letter-spacing="0px" style="white-space: pre" x="60" xml:space="preserve" y="470.0">
   Mother’s full name
  </text>
- <text fill="#222222" font-family="Libre Baskerville" font-size="9.7" font-weight="bold" letter-spacing="0px" style="white-space: pre" x="60" xml:space="preserve" y="480.0">
+ <text fill="#222222" font-family="TimesNewRoman" font-size="9.7" font-weight="bold" letter-spacing="0px" style="white-space: pre" x="60" xml:space="preserve" y="480.0">
   මවගේ සම්පූර්ණ නම
  </text>
- <text fill="#222222" font-family="Libre Baskerville" font-size="9.7" font-weight="bold" letter-spacing="0px" style="white-space: pre" x="60" xml:space="preserve" y="490.0">
+ <text fill="#222222" font-family="TimesNewRoman" font-size="9.7" font-weight="bold" letter-spacing="0px" style="white-space: pre" x="60" xml:space="preserve" y="490.0">
   தாயின் முழுப்பெயர்
  </text>
- <text fill="#222222" font-family="Libre Baskerville" font-size="9.7" letter-spacing="0px" style="white-space: pre" x="264" xml:space="preserve" y="470.0">
+ <text fill="#222222" font-family="TimesNewRoman" font-size="9.7" letter-spacing="0px" style="white-space: pre" x="264" xml:space="preserve" y="470.0">
   {{motherFirstName}} {{motherFamilyName}}
  </text>
- <text fill="#222222" font-family="Libre Baskerville" font-size="9.7" letter-spacing="0px" style="white-space: pre" x="264" xml:space="preserve" y="480.0">
+ <text fill="#222222" font-family="TimesNewRoman" font-size="9.7" letter-spacing="0px" style="white-space: pre" x="264" xml:space="preserve" y="480.0">
   {{birthMotherMotherSinhalaFirstName}} {{birthMotherMotherSinhalaFamilyName}}
  </text>
- <text fill="#222222" font-family="Libre Baskerville" font-size="9.7" letter-spacing="0px" style="white-space: pre" x="264" xml:space="preserve" y="490.0">
+ <text fill="#222222" font-family="TimesNewRoman" font-size="9.7" letter-spacing="0px" style="white-space: pre" x="264" xml:space="preserve" y="490.0">
   {{birthMotherMotherTamilFirstName}} {{birthMotherMotherTamilFamilyName}}
  </text>
  <rect fill="none" height="60" stroke="#ECECEC" stroke-width="0.97" width="204" x="50" y="450.0"/>
  <rect fill="none" height="60" stroke="#ECECEC" stroke-width="0.97" width="475" x="254" y="450.0"/>
- <text fill="#222222" font-family="Libre Baskerville" font-size="9.7" font-weight="bold" letter-spacing="0px" style="white-space: pre" x="60" xml:space="preserve" y="530.0">
+ <text fill="#222222" font-family="TimesNewRoman" font-size="9.7" font-weight="bold" letter-spacing="0px" style="white-space: pre" x="60" xml:space="preserve" y="530.0">
   Father’s full name
  </text>
- <text fill="#222222" font-family="Libre Baskerville" font-size="9.7" font-weight="bold" letter-spacing="0px" style="white-space: pre" x="60" xml:space="preserve" y="540.0">
+ <text fill="#222222" font-family="TimesNewRoman" font-size="9.7" font-weight="bold" letter-spacing="0px" style="white-space: pre" x="60" xml:space="preserve" y="540.0">
   පියාගේ සම්පූර්ණ නම
  </text>
- <text fill="#222222" font-family="Libre Baskerville" font-size="9.7" font-weight="bold" letter-spacing="0px" style="white-space: pre" x="60" xml:space="preserve" y="550.0">
+ <text fill="#222222" font-family="TimesNewRoman" font-size="9.7" font-weight="bold" letter-spacing="0px" style="white-space: pre" x="60" xml:space="preserve" y="550.0">
   தந்தையின் முழுப்பெயர்
  </text>
- <text fill="#222222" font-family="Libre Baskerville" font-size="9.7" letter-spacing="0px" style="white-space: pre" x="264" xml:space="preserve" y="530.0">
+ <text fill="#222222" font-family="TimesNewRoman" font-size="9.7" letter-spacing="0px" style="white-space: pre" x="264" xml:space="preserve" y="530.0">
   {{fatherFirstName}} {{fatherFamilyName}}
  </text>
- <text fill="#222222" font-family="Libre Baskerville" font-size="9.7" letter-spacing="0px" style="white-space: pre" x="264" xml:space="preserve" y="540.0">
+ <text fill="#222222" font-family="TimesNewRoman" font-size="9.7" letter-spacing="0px" style="white-space: pre" x="264" xml:space="preserve" y="540.0">
   {{birthFatherFatherSinhalaFirstName}} {{birthFatherFatherSinhalaFamilyName}}
  </text>
- <text fill="#222222" font-family="Libre Baskerville" font-size="9.7" letter-spacing="0px" style="white-space: pre" x="264" xml:space="preserve" y="550.0">
+ <text fill="#222222" font-family="TimesNewRoman" font-size="9.7" letter-spacing="0px" style="white-space: pre" x="264" xml:space="preserve" y="550.0">
   {{birthFatherFatherTamilFirstName}} {{birthFatherFatherTamilFamilyName}}
  </text>
   </g>
   <path d="M62.9698 586.11H533.42" stroke="#038E86" stroke-width="1.94" stroke-linecap="round" />
   <path d="M62.9698 159.22H532.45" stroke="#038E86" stroke-width="1.94" stroke-linecap="round" />
-  <text fill="#038E86" xml:space="preserve" style="white-space: pre" font-family="Libre Baskerville" font-size="15.52" font-weight="bold" letter-spacing="3.88px">
+  <text fill="#038E86" xml:space="preserve" style="white-space: pre" font-family="TimesNewRoman" font-size="15.52" font-weight="bold" letter-spacing="3.88px">
     <tspan x="200.256" y="184.002">No. {{registrationNumber}}</tspan>
   </text>
-  <text fill="#222222" font-family="Libre Baskerville" font-size="9.7" font-weight="bold" letter-spacing="0px" style="white-space: pre"><tspan x="81.3999" y="605.325">National Identity Card No.: </tspan></text>
-  <text fill="#222222" font-family="Libre Baskerville" font-size="9.7" letter-spacing="0px" style="white-space: pre"><tspan x="81.3999" y="618.325">{{ childIdentifier }}</tspan></text>
+  <text fill="#222222" font-family="TimesNewRoman" font-size="9.7" font-weight="bold" letter-spacing="0px" style="white-space: pre"><tspan x="81.3999" y="605.325">National Identity Card No.: </tspan></text>
+  <text fill="#222222" font-family="TimesNewRoman" font-size="9.7" letter-spacing="0px" style="white-space: pre"><tspan x="81.3999" y="618.325">{{ childIdentifier }}</tspan></text>
 
   <path d="M62.9698 196.74H532.45" stroke="#038E86" stroke-width="1.94" stroke-linecap="round" />
   <path d="M62.97 37H533.42" stroke="#DDDDDD" stroke-width="0.97" stroke-linecap="round" />
