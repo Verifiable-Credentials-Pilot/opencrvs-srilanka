@@ -84,10 +84,15 @@ export async function certificateHandler(request: Request, h: ResponseToolkit) {
         '/api/countryconfig/certificates/birth-certificate-certified-copy.svg',
       fonts: {
         'Noto Sans': {
-          normal: '/api/countryconfig/fonts/NotoSans-Regular.ttf',
-          bold: '/api/countryconfig/fonts/NotoSans-Bold.ttf',
-          italics: '/api/countryconfig/fonts/NotoSans-Regular.ttf',
-          bolditalics: '/api/countryconfig/fonts/NotoSans-Regular.ttf'
+          // normal: '/api/countryconfig/fonts/NotoSans-Regular.ttf',
+          // bold: '/api/countryconfig/fonts/NotoSans-Bold.ttf',
+          // italics: '/api/countryconfig/fonts/NotoSans-Regular.ttf',
+          // bolditalics: '/api/countryconfig/fonts/NotoSans-Regular.ttf'
+
+          normal: '/api/countryconfig/fonts/TimesNewRoman-Regular.ttf',
+          bold: '/api/countryconfig/fonts/TimesNewRoman-Bold.ttf',
+          italics: '/api/countryconfig/fonts/TimesNewRoman-Regular.ttf',
+          bolditalics: '/api/countryconfig/fonts/TimesNewRoman-Regular.ttf'
         }
       }
     },
