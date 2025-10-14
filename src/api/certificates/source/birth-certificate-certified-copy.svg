@@ -314,12 +314,6 @@
  <text fill="#222222" font-family="Libre Baskerville" font-size="9.7" letter-spacing="0px" style="white-space: pre" x="264" xml:space="preserve" y="290.0">
   {{{gender childGender 'en'}}}
  </text>
- <text fill="#222222" font-family="Libre Baskerville" font-size="9.7" letter-spacing="0px" style="white-space: pre" x="264" xml:space="preserve" y="300.0">
-  {{{gender childGender 'si'}}}
- </text>
- <text fill="#222222" font-family="Libre Baskerville" font-size="9.7" letter-spacing="0px" style="white-space: pre" x="264" xml:space="preserve" y="310.0">
-  {{{gender childGender 'ta'}}}
- </text>
  <rect fill="none" height="60" stroke="#ECECEC" stroke-width="0.97" width="204" x="50" y="270.0"/>
  <rect fill="none" height="60" stroke="#ECECEC" stroke-width="0.97" width="475" x="254" y="270.0"/>
  <text fill="#222222" font-family="Libre Baskerville" font-size="9.7" font-weight="bold" letter-spacing="0px" style="white-space: pre" x="60" xml:space="preserve" y="350.0">
